@@ -4,8 +4,8 @@ This is data about a freshman
 
 # Python program to swap two variables
 
-x = 5
-y = 10
+x = 7
+y = 11
 
 # To take inputs from the user
 #x = input('Enter value of x: ')
